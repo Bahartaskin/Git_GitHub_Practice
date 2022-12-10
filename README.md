@@ -1,2 +1,2 @@
 # Git_GitHub_Practice
-//Git and GitHub practice
+Git and GitHub practice
